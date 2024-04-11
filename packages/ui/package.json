@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-  "./input-box": "./src/input-box.tsx",
+    "./input-box": "./src/input-box.tsx",
     "./admin": "./src/admin.tsx",
     "./button": "./src/button.tsx",
     "./card": "./src/card.tsx",
